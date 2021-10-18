@@ -16,8 +16,6 @@ import java.text.ParseException;
 public class CreateIndex {
 //    private IndexWriter writer;
     public static final String DATA_DIR="/Users/enity/Downloads/text_group_work/yelp_dataset/yelp_academic_dataset_review.json";
-//    public static final String DATA_DIR="/Users/enity/Downloads/text_group_work/review_part.json";
-//    public static final String INDEX_DIR="/Users/enity/Downloads/text_group_work/test_index";
     public static final String INDEX_DIR="/Users/enity/Downloads/text_group_work/lucene_index";
     public static int docNum = 1;
 
