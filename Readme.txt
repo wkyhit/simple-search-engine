@@ -11,104 +11,130 @@ guide:
     user tutorial:
         1. run the searchEngine.java
         2. first you need to select the inquiry method. Input number 0 - single keyword query; Input number 1 - phrase query; Input others - exit
-        3. after selecting the inquiry method, you will asked to input a single keyword or phrase, based on your previous selection
+        3. after selecting the inquiry method, you will be asked to input a single keyword or phrase, based on your previous selection
         4. the console will return following information - total hits, top 10 results(in order) with scores and matching segments
 
 Explanations of sample output:
     
-    1. select single keyword query - input keyword "prosciutto"
+    1. select single keyword query - input keyword "accessories"
     results are as follows:
-        total hits: 17108
+        
+        Query time consuming: 160ms
 
-        score: 11.620078
-        docId: 3432812
-        content: 
-        Great crust, but missed the mark with toppings. Got the prosciutto fig pizza that must have had an entire jar of fig jam on top - made it pretty much inedible. And the prosciutto was more like tough overcooked ham (prosciutto cotto). Would have been so much better if it was prosciutto crudo.
+        total hits: 16257
 
-        score: 11.556878
-        docId: 127684
+        score: 11.548266
+        docId: 674037
         content: 
-        Be sure to get something with prosciutto in it! Their stuff with prosciutto is beyond amazing. My favorite is the appetizer that is crostini with fig jam and you guessed it...prosciutto!
+        So glad NORTHWEST Auto Accessories moved to bigger location! They have everything for truck accessories also Thule racks, tires for trucks fancy accessories for trucks.
 
-        score: 11.378674
-        docId: 3865839
+        score: 11.186857
+        docId: 338259
         content: 
-        Went back for the prosciutto with mozz. Good prosciutto and ingredients and I like the large variety of chips available. Will try a couple other sandwiches as well but prosciutto is always a go-to option in my book.
+        I like the store. They have some interesting clothes I mainly like the accessories. The sizing is weird I'm not sure where their size chart came from. Which is why I like to stick to their accessories. They have a ton of nice accessories so I can dress up any outfit.  They also have unique hair accessories, I purchase the largest hair bun filler thing I've ever seen there. There aren't many cashiers there so the lines are always long.
 
-        score: 11.167869
-        docId: 7163505
+        score: 11.152577
+        docId: 3736006
         content: 
-        Had the fettuccini panna e prosciutto and cesare salad. Unfortunately, the meal was rather disappointing. The "prosciutto" came in cubed Italian ham form. Perhaps that was my mistake in assuming it would be cured, but is cured prosciutto not what people mean when they say prosciutto? That aside, while the portions were gigantic, the pasta was too salty overall. 
-        It seems that this place is better known for their pizzas. I would agree based on my pasta experience.
+        Accessory department continues to just suck... simple question ... what is the largest tires and rims I can put on my truck without additional lift kit... accessory department says we don't do that ??? I call bs and inform the accessory person that you a person on staff and that's all they do ...
 
-        score: 11.136739
-        docId: 284812
+        score: 11.01431
+        docId: 3892153
         content: 
-        Ordered a prosciutto sub to go. Sat down at the Pru and no prosciutto - just mozzarella and tomato. F minus.
+        This place is a small gem.  Friendly owner.  Beautiful clothes, accessories, very interesting little home/accessories/antiques.  And great prices for the highly-edited items.  Thanks!
 
-        score: 11.130112
-        docId: 2413528
+        score: 11.01431
+        docId: 6036093
         content: 
-        Not good.  I went in looking for a prosciutto sub, which is on their menu.  It took them about five minutes to locate prosciutto (it is at this point that I should have pulled the rip cord).  When they located prosciutto in their fridge, they had to slice the prosciutto, which had me thinking "hey, maybe this is good because it's fresh".  Wrong.  The issues only compounded from here.
-        The prosciutto was thick sliced (prosciutto is traditionally thin sliced).  Their mozzarella was in processed flat sheets, instead of fresh mozzarella balls.   They asked me if I wanted mayonnaise and mustard on the sub (it's the equivalent of getting mayo/mustard on an Italian sub).  I asked for oil and vinegar, instead they used what I believe to have been Italian dressing.
-        All around bad experience.
+        Bought my first AR here and a bunch of accessories. Super helpful and informed staff. Will continue to go back here for my firearms and accessories.
 
-        score: 11.109479
-        docId: 3693100
+        score: 10.979479
+        docId: 5434607
         content: 
-        They don't just make sandwiches, they make the best prosciutto caprese sandwich I've ever had. Loaded with fresh prosciutto, creamy mozzarella and basil, this sandwich gives a new meaning to my usually boring lunch. Who cares you get prosciutto stuck between your teeth, this is definitely worth it!
+        Got the 10% off accessory coupon for checking in, spent 150$ on accessories and they wouldn't take the coupon even after the manager came to check it out.
 
-        score: 11.061897
-        docId: 890476
+        score: 10.925384
+        docId: 8001608
         content: 
-        I ordered a green pizza with extra prosciutto. They told me the prosciutto will be raw slices on top which is what I wanted. But they actually added the prosciutto before going into the oven, which makes the pizza completely different, not in a good way. For a pizzeria, this is very unprofessional.
+        Having just received a Big Green Egg as a (generous) gift from a family member, I went to the BBQ Barn to stock up on accessories. The extremely helpful salesperson identified the accessories that made sense for a beginner...and actually talked me out of buying several additional accessories, suggesting I spend time using the BGE before spending money on accessories I may not need.
+        This is simply the best place for smokers, grills, related accessories, and expert advice on how to use them.
 
-        score: 11.029729
-        docId: 137868
+        score: 10.89931
+        docId: 4406506
         content: 
-        Both pasta dishes we ordered were super salty.  The prosciutto pizza was generously spread with prosciutto but it made it taste salty also.
+        Tired of going to the malls on the hunt for accessories? Tired getting trapped in Claires or Icing with all the "Teeny Boppers"? Tired of going in your favorite clothing stores, finding the perfect outfit, but scrapping through their limited selection of accessories? Well I found the answer and its in Atlanta's own Atlantic Station. Its a small accessory stored called Pink Heart. Pink Heart is located right next to H&M at in Atlantic Station. The best way I can describe this place is "Claire's for 21 and up!" There are tons of great-looking costume jewelry, purses, and other accessories. But the clear for front of the store are the top to bottom walls of attractive accessories, in every color you need, at great prices There is usually only one person working in the shop. But I doubt you will need any help finding anything because its all laid in front of you, arranged by type of accessory, grouped in color blocks, and arranged with smallest accessory being at the top of the wall progressing to larger accessories toward the bottom. The is an awesome place to get  some really affordable statement pieces as well. There is truely something for everybody here! Its wonderful, TRUST ME!! I give Pink Heart an C for decor, its pretty average. They pretty much let the accessories decorate the store, which isn't a bad thing. I give Pink Heart an A for Customer Experience because the selection is AWESOME!! Its so organized and so easy to shop here. I seriously doubt you could be let down when you come to this place.
 
-        score: 11.029729
-        docId: 1704785
+        score: 10.842327
+        docId: 6897691
         content: 
-        I ordered the prosciutto and fig panini and the prosciutto tasted spoiled and like bad ham. Temptations wasn't very tempting after all.
-    
-    2. select phrase query - input phrase "bicycle accessories"
+        I come here almost daily for vape accessories and e liquid. The people who work here are super friendly and awesome. They also have great prices for other smoke accessories too.
+
+        score: 10.783105
+        docId: 693946
+        content: 
+        Absolutely love the store. Went to get some new accessories for a very old radio, and they had everything I needed at a fair price.
+        The staff are very knowledgeable and can help in selecting books, radios and other accessories.
+        The in-store experience is much better than the online catalog because the staff can demonstrate features for you, and make sure you are purchasing the proper accessory.
+
+
+    2. select phrase query - input phrase "take care of"
     result are as follows:
-        total hits: 5
+        Query time consuming: 94ms
 
-        score: 16.065886
-        docId: 7077538
+        total hits: 47772
+
+        score: 9.827278
+        docId: 5599294
         content: 
-        So I needed to change my back bicycle tire. I searched on my Yelp app and found this place. I called and received great customer (phone) service. I stopped by and my bike was literally done in like 5 minutes. 
-        Its a pretty cute shop with cool bicycle accessories. AND I got 10% off for checking in on Yelp. WIN WIN!!! If I ever need anything done on my bike I will definitely go to this location!
+        Excellent service! Non-pushy mechanics who want to take care of you, and take care of the environment. Top notch stuff!
 
-        score: 15.28684
-        docId: 6637300
+        score: 9.795701
+        docId: 5172397
         content: 
-        This is a really cute store with lots of stylish environmentally friendly products, from bowls made from old LPs to paper made from elephant poop (seriously). The store carries housewares (cups, dishes, candles), bags, bicycling accessories, jewelry, baby clothes, note cards. Perfect for last-minute gift buying.  Every item seems hand-selected and good-quality and the store is well laid out and organized. The prices aren't bad either. They also have a box where you can drop small electronics (cell phones, batteries) for free recycling.
+        Mark and Kevin ALWAYS take care of me quickly as well as efficiently. They always make time to take care of me!
 
-        score: 15.04368
-        docId: 450315
+        score: 9.640813
+        docId: 4568345
         content: 
-        I am definitely a fan of Sports Authority.  This particular location has a good check in deal.  We came here near Christmas time to buy some presents and we had a good experience.  The staff members were very friendly and they helped us find what we were looking for.  We got some golf stuff, two pairs of shoes, a tennis racket bag, and some bicycle accessories.  The store was clean and well organized.  They have everything from apparel to basketballs and everything in between.  Good spot to buy athletic merchandise.
+        If you can't take care of a costumer let them know instead of taking in costumers you can't take care of.
 
-        score: 10.408107
-        docId: 4318476
+        score: 9.627861
+        docId: 3482327
         content: 
-        You want proof that Portland is awesome? Just visit Made Here PDX. This incredibly well-curated retailer represents a cross section of Portland-area artisans, selling everything from jams to surfboards. I was particularly smitten with collection of glass vases, the leather bicycle accessories and a completely badass double-headed axe. Also, I have a thing for concert posters, and the collection is definitely impressive.
-        While it's not necessarily a negative, it does need to be at least pointed out that this store is pretty dang expensive. Of course, high quality artisanal products aren't going to be cheap, so you certainly get what you pay for. The price point would probably too high for some people, but if you have the cash to spend, this would be a fantastic place to buy a special gift. 
-        There's a bit of a misconception that Made Here PDX is a holiday pop-up, but today I was excited to learn that they are in fact here to stay! With a location directly across 10th from Powell Books and right off a streetcar stop, they're poised to  benefit from quite a bit of tourist traffic. I have faith that they'll be around for quite some time, showing off the best of local products.
+        Do Not come to this store! There are 4 employees and only 2 are taking care of customers, the other two are wandering around like if the were a show phone... there is not a sense or urgency to take care of customers. I been here for over an hour and they all disappeared only one is taking care of customers... what a shame
 
-        score: 8.849826
-        docId: 1385232
+        score: 9.627861
+        docId: 3987242
         content: 
-        Coming to ride is a nice break from the typical chain coffee houses.  It is also a lot of fun if you happen to like to ride a bicycle.  (You don't need to ride a bicycle to go.)
-        You come here to sit down and savor your drink.  This is not the place to stop, order a fast drink, wait for your name to be called, and leave with a drink in a paper cup.  Instead, this is where you go to come in, relax with some people, order from the counter and wait as your custom drink is delivered to you.
-        I really like the vibe.  A few old wooden tables with chairs in the middle.  (Perhaps not enough for a big group.)  Lots of wooden beams are visible.  The first thing you see on the right are a few bicycles and bicycle accessories.  Not too many.  In any other place it would be filled with coffee paraphernalia.  Here it is riding gloves, lights, etc.
-        Two of us came in on this cold day during a miserable, snowy February.  We ordered an Espresso and a cuppa Earl Grey.  The drinks were made carefully and delivered at the right temperature.  (Starbucks is too hot.)  And, yeah, in a ceramic cup.
-        My friend and I chatted for an hour or so.  We never felt rushed.  Nobody was wandering around looking for a table.  Nothing like that.
-        I would say that it was a completely enjoyable experience and a lot better than the bunch of shops -- Starbucks, Pete's, etc. -- that are also in Lexington.
+        There is a blurry line between FASHION and FRUMP.  This place stands clearly on the side of frump.
+        An author once said, "take care of beauty, and truth will take care of itself."  I feel mean for having written the words in the previous paragraph, but what can an honest girl do?   Mint Julep fails miserably at taking care of beauty.
 
-            
+        score: 9.627861
+        docId: 4158429
+        content: 
+        Bill and co. always take care of my and my vehicle.  I have 100% trust and confidence in their skills and honesty.  I haven't felt so safe with a mechanic's care since my uncle (mechanic of 40 years) taking care of my car as a young driver.  Very fair.  Quick turn around.  No nonsense.  Takes care of the whole family.
+
+        score: 9.627861
+        docId: 6176069
+        content: 
+        I'm a huge believer in the owner and main man taking care of the company.  
+        You take care of your people and they take care of you!!
+
+        score: 9.580219
+        docId: 3181865
+        content: 
+        Owners always take care of me and every person I recommended they take care of too!
+        
+        score: 9.550208
+        docId: 3619140
+        content: 
+        Great friendly person. Helped me understand how to take care of my hair. Got my locs started and told me how to take care of them. Enjoyed the whole experience!
+
+        score: 9.547454
+        docId: 2408396
+        content: 
+        Shout Out To Justin!! BIG THANK YOU FOR TAKING CARE OF US!! After flying all night, ruff travel and a wrong booking location he was able to still take care of us. 
+        May God bless you and take care of you as you have taken care of us. Amen!!
+
                     
+                            
